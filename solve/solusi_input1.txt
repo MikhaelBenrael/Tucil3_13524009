@@ -1,0 +1,7 @@
+Riwayat Iterasi
+Iterasi 1 | Posisi: (5,1) | Next Target: 1 | Cost: 0 | Path: START
+Iterasi 2 | Posisi: (1,1) | Next Target: 2 | Cost: 18 | Path: U
+Path: U
+Cost: 18
+Total Iterasi: 2
+Waktu: 76 microsecond (0.076 ms)

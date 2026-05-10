@@ -1,0 +1,29 @@
+Riwayat Iterasi
+Iterasi 1 | Posisi: (1,1) | Next Target: 1 | Cost: 0 | Path: START
+Iterasi 2 | Posisi: (1,1) | Next Target: 1 | Cost: 0 | Path: U
+Iterasi 3 | Posisi: (1,1) | Next Target: 1 | Cost: 0 | Path: L
+Iterasi 4 | Posisi: (2,1) | Next Target: 1 | Cost: 1 | Path: D
+Iterasi 5 | Posisi: (1,3) | Next Target: 2 | Cost: 2 | Path: R
+Iterasi 6 | Posisi: (2,1) | Next Target: 1 | Cost: 1 | Path: DD
+Iterasi 7 | Posisi: (2,3) | Next Target: 1 | Cost: 3 | Path: DR
+Iterasi 8 | Posisi: (1,1) | Next Target: 2 | Cost: 4 | Path: RL
+Iterasi 9 | Posisi: (3,3) | Next Target: 2 | Cost: 4 | Path: RD
+Iterasi 10 | Posisi: (1,3) | Next Target: 2 | Cost: 2 | Path: RR
+Iterasi 11 | Posisi: (1,1) | Next Target: 1 | Cost: 2 | Path: DU
+Iterasi 12 | Posisi: (1,3) | Next Target: 2 | Cost: 2 | Path: RU
+Iterasi 13 | Posisi: (2,1) | Next Target: 1 | Cost: 1 | Path: DL
+Iterasi 14 | Posisi: (1,3) | Next Target: 1 | Cost: 4 | Path: DRU
+Iterasi 15 | Posisi: (1,3) | Next Target: 2 | Cost: 6 | Path: RLR
+Iterasi 16 | Posisi: (1,3) | Next Target: 2 | Cost: 6 | Path: RDU
+Iterasi 17 | Posisi: (1,1) | Next Target: 2 | Cost: 4 | Path: RLL
+Iterasi 18 | Posisi: (2,3) | Next Target: 1 | Cost: 3 | Path: DRR
+Iterasi 19 | Posisi: (2,1) | Next Target: 2 | Cost: 5 | Path: RLD
+Iterasi 20 | Posisi: (3,3) | Next Target: 2 | Cost: 4 | Path: RDR
+Iterasi 21 | Posisi: (3,3) | Next Target: 2 | Cost: 4 | Path: RDD
+Iterasi 22 | Posisi: (1,1) | Next Target: 2 | Cost: 4 | Path: RLU
+Iterasi 23 | Posisi: (2,1) | Next Target: 1 | Cost: 5 | Path: DRL
+Iterasi 24 | Posisi: (3,2) | Next Target: 2 | Cost: 5 | Path: RDL
+Path: RDL
+Cost: 5
+Total Iterasi: 24
+Waktu: 297 microsecond (0.297 ms)
