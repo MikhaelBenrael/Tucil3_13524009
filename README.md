@@ -6,26 +6,29 @@
 Program ini adalah sebuah *solver* (penyelesaian) untuk permainan *Ice Sliding Puzzle* yang dibangun menggunakan bahasa pemrograman C++. Dalam permainan ini, sebuah aktor bergerak meluncur di atas lantai es yang licin, di mana aktor tidak dapat berhenti di tengah jalan kecuali menabrak rintangan. 
 
 ## Struktur Direktori
+
+```
 Tucil3_13524009/
-├── bin/                    # Executable file
-│   └── solver(.exe)
-├── doc/                    # Dokumentasi
-│   └── Laporan.pdf
-├── src/                    # Source code
-│   ├── header/
-│   │   └── IceSlider.h
-│   ├── cpp/
-│   │   └── IceSlider.cpp
-│   └── main.cpp
-├── test/                   # File test case input
-│   ├── input1.txt
-│   ├── input2.txt
-│   ├── input3.txt
-│   ├── input4.txt
-│   └── input5.txt
-├── solve/                  # Output solusi (auto-generated)
-│   └── solusi_*.txt
-└── README.md
+  bin/
+    - solver(.exe)          # Executable file
+  doc/
+    - Laporan.pdf           # Dokumentasi laporan
+  src/
+    header/
+      - IceSlider.h         # Header file
+    cpp/
+      - IceSlider.cpp       # Implementation file
+    - main.cpp              # Main program
+  test/
+    - input1.txt
+    - input2.txt
+    - input3.txt
+    - input4.txt
+    - input5.txt
+  solve/
+    - solusi_*.txt          # Auto-generated solutions
+  README.md
+```
 
 ### Algoritma yang Diimplementasikan
 Program ini mengimplementasikan empat buah algoritma pencarian (*pathfinding*):
